@@ -25,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
