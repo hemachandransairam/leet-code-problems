@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hemachandransairam/leet-code-problems/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/hemachandransairam/leet-code-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/hemachandransairam/leet-code-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hemachandransairam/leet-code-problems/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/hemachandransairam/leet-code-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/hemachandransairam/leet-code-problems/tree/master/0326-power-of-three) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/hemachandransairam/leet-code-problems/tree/master/0258-add-digits) |
 ## Recursion
 |  |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hemachandransairam/leet-code-problems/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
