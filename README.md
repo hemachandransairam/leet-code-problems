@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hemachandransairam/leet-code-problems/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
+| [0274-h-index](https://github.com/hemachandransairam/leet-code-problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/hemachandransairam/leet-code-problems/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/hemachandransairam/leet-code-problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
