@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hemachandransairam/leet-code-problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/hemachandransairam/leet-code-problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/hemachandransairam/leet-code-problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/hemachandransairam/leet-code-problems/tree/master/0274-h-index) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hemachandransairam/leet-code-problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hemachandransairam/leet-code-problems/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/hemachandransairam/leet-code-problems/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
