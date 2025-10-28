@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/hemachandransairam/leet-code-problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/hemachandransairam/leet-code-problems/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hemachandransairam/leet-code-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hemachandransairam/leet-code-problems/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/hemachandransairam/leet-code-problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/hemachandransairam/leet-code-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hemachandransairam/leet-code-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hemachandransairam/leet-code-problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/hemachandransairam/leet-code-problems/tree/master/0326-power-of-three) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hemachandransairam/leet-code-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/hemachandransairam/leet-code-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/hemachandransairam/leet-code-problems/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
